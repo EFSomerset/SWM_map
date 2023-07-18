@@ -14,8 +14,8 @@ var config = {
         {
             id: 'chap-1',
             alignment: 'left',
-            hidden: true,
-            image: '/Users/edenflaherty/Documents/SWM Multimedia Story/storytelling-main/src/images/swm-logo.png',
+            hidden: false,
+            image: 'https://news.globallandscapesforum.org/wp-content/uploads/2023/06/GLF-Live-template-Youtube_2.jpg',
             location: {
                 center: [111.74968, 23.75575],
                 zoom: 1.71,
@@ -30,7 +30,7 @@ var config = {
         {
             id: 'chap-2',
             alignment: 'center',
-            hidden: true,
+            hidden: false,
             title: 'Sustainable Wildlife Management',
             description: 'Millions of people around the world rely on wild meat as part of their basic diet, but unchecked hunting in environments already under pressure can contribute to the depletion of wildlife, threatening ecosystems as well as the people who rely on them. <br><br> The Sustainable Wildlife Management (SWM) Programme is a major initiative of CIRAD, the World Conservation Society (WCS), the Food and Agriculture Organization (FAO) and CIFOR-ICRAF that aims to improve wildlife conservation and food security. <br><br> The program focuses on three key socio-ecosystems: forest, wetland and savannah, with CIFOR-ICRAF leading the work on “Consumption of wildmeat becomes sustainable” and the “Monitoring and evaluation mechanism.” <br><br> In a live conversation for Global Landscapes Forum, experts from the SWM Programme in Guyana – one of the 15 countries where SWM operates – came together to discuss the successes and challenges of running such an ambitious project in what is considered one of the world’s last great wild places. <br><br>',
             location: {
